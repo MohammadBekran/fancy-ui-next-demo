@@ -9,7 +9,7 @@ const Home = () => {
         Fancy UI + Vite + React + TypeScript
       </h1>
       <Modal
-        title="Hello"
+        title="Calendar"
         trigger={<Button className="cursor-pointer">Pick up a date</Button>}
       >
         <div className="mt-4">
